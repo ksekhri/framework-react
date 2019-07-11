@@ -7,7 +7,7 @@ function App() {
   return(
     <div className="App">
       <h1>React App</h1>
-      <img src={reactIcon} height="200px" width="200px" />
+      <img src={reactIcon} height="200" width="200" />
     </div>
   );
 }
