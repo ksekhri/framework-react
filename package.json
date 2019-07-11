@@ -4,6 +4,7 @@
   "description": "Framework: React",
   "main": "index.jsx",
   "scripts": {
+    "start": "webpack-dev-server --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Karan Sekhri",

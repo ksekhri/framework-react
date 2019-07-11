@@ -3,7 +3,6 @@ const webpack = require("webpack");
 
 module.exports = {
   entry: "./src/index.jsx",
-  mode: "development",
   module: {
     rules: [
       {
